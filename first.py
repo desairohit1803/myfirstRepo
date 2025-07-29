@@ -1,2 +1,3 @@
 #my first file
-print ""hello"
+print "hello"
+print "second line"
